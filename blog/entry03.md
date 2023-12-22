@@ -13,9 +13,10 @@ As of now, I am in step three (Brainstorm possible solutions) or four (Plan the 
 ## SKills
 
 ### Organization
-
+I had to organize through my FP content so that it could be the final version and that allowed me to get better on my skill of organization. I was able to organize my list and put it in a neat list that could make sense. I added more onto it and that helped it look more neater since it was things like dates, links and such. Plus I also divided the list in sections when I had to write about the software, hardware and future products. These are things that I don't normally do when taking notes, I usually just write everything down and not put it into sections and that makes things confusing sometimes. So doing this task really helped me to get better at organizing my notes, list and etc.
 
 ### Creativity
+When I had to do Part B, I was supposed to come up with ideas and that made me use the creativity skill. I brainstormed for ideas for future products. It was a bit difficult since I wasn't sure at first but then it became easier as I got one idea and then others flooded in when I got inspiration from others and my own ideas. 
 
 [Previous](entry02.md) | [Next](entry04.md)
 
