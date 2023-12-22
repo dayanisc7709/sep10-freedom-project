@@ -8,7 +8,7 @@ When I had to think about Part B, I looked back on my software and hardware I al
 Once I was able to do all of this, I needed to organize it all and add some more facts to it so that I'd be sure it was fine to put on my future website. The way I was able to do this was by seperating everything in three sections since there was the software, hardware and future products. I think it would be confusing to not seperate the software and hardware, so that's what I did so it wasn't able to confuse it. After all that organizing, I did some digging through other people's [content](https://docs.google.com/document/d/1w025TKLSU0PxNJAaa4OIykkkhQI8gbeYSwAY-GccYrM/preview) and then it hit me to put some dates. These could be used to see when the other software and hardware already invented was made. That way you could see how long it's been used for in the past and up to now. Then I added on more to my ideas just in case if it wasn't enough information for the reader and I also tried to simplify it, so it wasn't hard to understand. After all that, there wasn't much left besides adding some visuals. Once I placed image links all over the hardware section, it was pretty much done and ready to go. That was all I needed to finish and I finally made my final version for the information I'd put on my website.
 
 ## EDP (Engineering Design Process)
-During this, I was in
+As of now, I am in step three or four of the Engineering Design process. During this, I had to brainstorm for my Part B, which is what I did and was able to complete. But now, I had to come up with more inventions for the future that could be useful for Fashion and be more advanced in Technology, which can also be seen as planning. 
 
 ## SKills
 
