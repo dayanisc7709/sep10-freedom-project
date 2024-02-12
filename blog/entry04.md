@@ -1,7 +1,13 @@
 # Entry 4
-##### X/X/XX
+##### 2/12/24
 
-Text
+### What tool I have chosen
+
+### How I tinkered with it
+
+### Sources
+
+### Skills
 
 [Previous](entry03.md) | [Next](entry05.md)
 
