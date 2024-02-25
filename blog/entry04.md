@@ -36,15 +36,18 @@ It was a little hard to make since obviously, that was my first time using Afram
 ## Sources
 For my sources, I mainly used the Aframe website as help. It had all the things I needed, like the starter code. I also found more shapes to use as an idea there, it looked hard, but I will see if I understand that later on. The Aframe websites are where I also saw examples of other creations from other people using the shapes and images to create some games or just places to look around at online. Here are some of the websites I had found:
 https://aframe.io/docs/1.5.0/components/geometry.html
+
 https://aframe.io/docs/1.5.0/introduction/
+
 https://aframe.io/
 
 ## Skills
+
 ### Organization
-During the tinkering, it was kind of messy and it got confusing for me to figure out which shape I was making changes to because I had multiple reused shapes, so I had to do something about this problem. What I did was use my skill and oranized them by color coding them with different shades of grey to make it more easier for me to look at which shape is which for the body in the robot I was making.
+During the tinkering, it was kind of messy and it got confusing for me to figure out which shape I was making changes to because I had multiple reused shapes, so I had to do something about this problem. What I did was use my skill and organized them by color coding them with different shades of grey to make it more easier for me to look at which shape is which for the body in the robot I was making. This made my tinkering a little easier, thanks to me actually organizing them with colorcoding.
 
 ### Embracing failure
-While I was tinkering, I made quite a lot of mistakes in my coding. I made a lot of errors when fixing the placement adjustments since I got confused a lot. But through those errors, I still was able to get through it and learn what I did wrong. Each time I got a little better as I went on with my errors. Also having these errors means Aframe isn't that easy to use for me, so I can learn more from this program.
+While I was tinkering, I made quite a lot of mistakes in my coding. I made a lot of errors when fixing the placement adjustments since I got confused a lot. But through those errors, I still was able to get through it and learn what I did wrong. Each time I got a little better as I went on with my errors. Also having these errors means Aframe isn't that easy to use for me, so I can learn more from this program. I don't wanna make too many mistakes, but the ones I did have already were good since it was a good learning experience.
 
 [Previous](entry03.md) | [Next](entry05.md)
 
