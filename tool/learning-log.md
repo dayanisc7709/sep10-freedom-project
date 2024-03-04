@@ -24,7 +24,20 @@ Tool: **Aframe**
   <img width="431" alt="image" src="https://github.com/dayanisc7709/sep10-freedom-project/assets/146861844/f2fd1da0-8d3f-4855-a4c4-32a7ba2e8dd8">
 
 3/4/24:
-* Text
+* Watching tutorials from this channel --> https://www.youtube.com/@alexandraetienne9540
+     * Has useful things to use for Aframe, like light and skyboxes
+          *Merged two tutorials and got a result of making a space themed scene:
+
+<img width="473" alt="image" src="https://github.com/dayanisc7709/sep10-freedom-project/assets/146861844/5f6d0a8d-8485-4bd5-b727-90ea0b9f3828">
+
+* Light helped with shading objects in a way, like in art
+* Skyboxes help imagine where you are and get a better vision
+     * `<a-sky src="image link here"></a-sky>` is how to be able to put a 360 image around the scene
+     * `<a-light type="name here"></a-light>` can allow me to put light around the directions, with a color
+          * Directional, Spot(light), hemisphere and ambient are the four different types of light (Need more reasearch on the spotlight and ambient one)
+       * Example of code down below:
+
+<img width="559" alt="image" src="https://github.com/dayanisc7709/sep10-freedom-project/assets/146861844/1e82a333-fced-462c-94b4-bde780d6b9a3">
 
 
 <!-- 
