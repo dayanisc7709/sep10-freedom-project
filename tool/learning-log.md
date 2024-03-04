@@ -26,7 +26,8 @@ Tool: **Aframe**
 3/4/24:
 * Watching tutorials from this channel --> https://www.youtube.com/@alexandraetienne9540
      * Has useful things to use for Aframe, like light and skyboxes
-          *Merged two tutorials and got a result of making a space themed scene:
+
+       *Merged two tutorials and got a result of making a space themed scene:
 
 <img width="473" alt="image" src="https://github.com/dayanisc7709/sep10-freedom-project/assets/146861844/5f6d0a8d-8485-4bd5-b727-90ea0b9f3828">
 
