@@ -79,7 +79,17 @@ Code:
       * Is there a way to be able to put text over these shapes?
    *  Next time I will try to find a way to be able to put text over these shapes
 
-
+3/25/24:
+* Learned how to insert text on A-frame:
+     * This tutorial helped: https://www.youtube.com/watch?v=cHWO-nWWe5w
+     * I looked into the official website and tried finding out from there
+     * Didn't help since I didn't know what rendering was? I left that out
+     * I looked into both the primitives and components section, both had text
+     * I did <a-text>, which is what A-frame usually has, an a and a dash before the name of the primitive
+     * Didn't work, until I watched tutorial
+     * Had to change the A-frame's version from `1.5.0` to `0.5.0`, then the text finally worked for me
+     * But I had to adjust the position for a while since it wasn't appearing
+    
 
 <!-- 
 * Links you used today (websites, videos, etc)
