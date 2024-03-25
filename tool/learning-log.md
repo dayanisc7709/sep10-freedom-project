@@ -40,6 +40,39 @@ Tool: **Aframe**
 
 <img width="559" alt="image" src="https://github.com/dayanisc7709/sep10-freedom-project/assets/146861844/1e82a333-fced-462c-94b4-bde780d6b9a3">
 
+3/22/24:
+* Learned to make more new shapes (More complex than cone, pyramid and box)
+   * Tutorial was from A-frame: https://aframe.io/docs/1.5.0/components/geometry.html
+ 
+   * List of shapes (Will probably use more than three here):
+      * box     
+      * circle
+      * cone
+      * cylinder
+      * dodecahedron
+      * octahedron
+      * icosahedron
+      * plane
+      * ring
+      * sphere
+      * tetrahedron
+      * torus
+      * torusKnot
+      * triangle
+
+Example of some shapes (cone, icosahedron and octahedron):
+
+<img width="510" alt="image" src="https://github.com/dayanisc7709/sep10-freedom-project/assets/146861844/acd07ef6-940d-4cf9-ad3f-4866a155b10c">
+Code:
+<img width="676" alt="image" src="https://github.com/dayanisc7709/sep10-freedom-project/assets/146861844/019a515d-f24c-49e2-a6ec-3f991ede8d63">
+
+
+
+3/24:
+
+
+
+
 
 <!-- 
 * Links you used today (websites, videos, etc)
