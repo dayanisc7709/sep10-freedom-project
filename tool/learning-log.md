@@ -89,7 +89,9 @@ Code:
      * Didn't work, until I watched tutorial
      * Had to change the A-frame's version from `1.5.0` to `0.5.0`, then the text finally worked for me
      * But I had to adjust the position for a while since it wasn't appearing
-    
+
+    <img width="1935" alt="image" src="https://github.com/dayanisc7709/sep10-freedom-project/assets/146861844/b5a5c05e-523c-4940-b15a-b6a584f231eb">
+
 
 <!-- 
 * Links you used today (websites, videos, etc)
