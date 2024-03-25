@@ -63,14 +63,21 @@ Tool: **Aframe**
 Example of some shapes (cone, icosahedron and octahedron):
 
 <img width="510" alt="image" src="https://github.com/dayanisc7709/sep10-freedom-project/assets/146861844/acd07ef6-940d-4cf9-ad3f-4866a155b10c">
+
 Code:
+
 <img width="676" alt="image" src="https://github.com/dayanisc7709/sep10-freedom-project/assets/146861844/019a515d-f24c-49e2-a6ec-3f991ede8d63">
 
+   * `radiusBottom;` and `radiusTop` seems to be what allows for the cone to be the shape it is, I tried changing that and it didn't look the same anymore
 
+<img width="305" alt="image" src="https://github.com/dayanisc7709/sep10-freedom-project/assets/146861844/5cbcd25f-43a6-4212-b739-06164161cb1a">
 
-3/24:
-
-
+   * Setting the `radiusTop` to 1.5 and the `radiusBottom` to 0.8 changed the shape entirely and made it look more like a trapezoid(?) now
+   * This could be another way to make more shapes not included
+      * I still wonder if custom shapes can be made?
+      * All shapes have primitive in the code, which could be name of the shape
+      * Is there a way to be able to put text over these shapes?
+   *  Next time I will try to find a way to be able to put text over these shapes
 
 
 
