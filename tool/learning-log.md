@@ -43,9 +43,9 @@ Tool: **Aframe**
 3/22/24:
 * Learned to make more new shapes (More complex than cone, pyramid and box)
    * Tutorial was from A-frame: https://aframe.io/docs/1.5.0/components/geometry.html
- 
+
    * List of shapes (Will probably use more than three here):
-      * box     
+      * box
       * circle
       * cone
       * cylinder
@@ -92,8 +92,29 @@ Code:
 
     <img width="1935" alt="image" src="https://github.com/dayanisc7709/sep10-freedom-project/assets/146861844/b5a5c05e-523c-4940-b15a-b6a584f231eb">
 
+4/3/2024:
+   * Practicing on making more of my inventions on Aframe, a small example of the product and code:
 
-<!-- 
+   ![alt text](image.png)
+
+   ![alt text](image-1.png)
+
+   * Tried changing the colors for the cones, it didn't work, not sure why? Will try to look into it later
+      * Kept refreshing in order to get the right colors (somewhat worked)
+   * Tried to change width and radius for sphere and cone, didn't work so I will look into that as well
+   * Used text so that my invention, an AI fashion helper, could be communicating with the owner
+   * Also used cones in order to  make a sort of body shape
+      * Making a list of shapes in case I need it and forget
+         * Cones or boxes for body
+         * Circles for head
+         * Cylinders for arms and legs maybe?
+         * Plane for floor or a place to put up text
+         * Other shapes will possibly be used for background/scene
+   * For the next time, I will practice making background for final days of learning my tool, Aframe
+
+
+
+<!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
 * Challenges, a-ha moments, etc
