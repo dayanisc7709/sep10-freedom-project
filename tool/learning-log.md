@@ -113,7 +113,24 @@ Code:
    * For the next time, I will practice making background for final days of learning my tool, Aframe
 
 4/4/2024:
-   * 
+   * Tried making a background, but didn't finish it just yet
+      * Progress so far:
+
+   ![alt text](image-2.png)
+
+   * The code:
+
+   ![alt text](image-3.png)
+
+   * Just a simple room for now to put in the inventions later on
+      * I messed around with the positions and rotation a lot since I was having issues with that for some reason
+      * Eventually got the result I needed
+   * Will try to combine this with the invention I created yesterday
+      * Details will be added tomorrow and finished maybe since I need to add the rest of the wall
+         * Will try to finalize it with textures since that didn't work today
+         * Also maybe add a texture in the sky, so it doesn't look too bland
+      * For the inventions, I will add a podium(?) with a block of text in front of the invention to explain what its use is and how it can be used
+
 
 <!--
 * Links you used today (websites, videos, etc)
