@@ -29,8 +29,9 @@ This was supposed to be like an AI bot that would help with fashion, so the body
 
 ## Sources
 
-Some of the sources I used were mainly from the Aframe website, which is https://aframe.io/. Another source I used was a youtube who helped me a lot during this process with her tutorials that were really helpful, which is https://www.youtube.com/@alexandraetienne9540. 
+Some of the sources I used were mainly from the Aframe website, which is https://aframe.io/. Another source I used was a youtube who helped me a lot during this process with her tutorials that were really helpful, which is https://www.youtube.com/@alexandraetienne9540. Another resource I used was https://medium.com/w3bvr/learning-a-frame-adding-image-textures-5dbb7c41288 when I needed to learn how to insert images onto shapes. This was also from the same person as the youtuber, so that person was a huge help.
 
+## Skills
 
 
 
