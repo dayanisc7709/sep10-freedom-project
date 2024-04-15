@@ -33,7 +33,13 @@ Some of the sources I used were mainly from the Aframe website, which is https:/
 
 ## Skills
 
+### Embracing failure
 
+When I started tinkering, I made a lot of mistakes when I started. A lot of them were small ones, but still mistakes nonetheless. I am glad I made them because I was able to learn a lot on how Aframe works. I got farther than where I was last time, so making those mistakes was a big help. It got me to learn a lot and it wasn't easy, so it was a challenge to get through so that's really good for me.
+
+### Attention to detail
+
+Since I had a lot of mistakes here and there, I had to pay attention to those small details. Especially when I had to use text, since it didn't end up working just like that. There had to be a small change for it to work and that was all that I needed for it to work. That's why using this skill was really important, especially for that time since I didn't even notice or think to try it. I hope to use this skill and be able to use it better for the next time.
 
 [Previous](entry04.md) | [Next](entry06.md)
 
