@@ -1,7 +1,7 @@
 # Entry 5
 ##### 4/14/24
 
-Text
+## What I learned about Aframe
 
 [Previous](entry04.md) | [Next](entry06.md)
 
