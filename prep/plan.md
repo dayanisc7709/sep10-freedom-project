@@ -16,16 +16,28 @@ https://wireframe.cc/g1rrTI
 
 
 ## Colors
-* `#ABC123`
+* `#3C4765` - Navy blue
+* `#EA9FA3` - Dull pink
+* `#FFDCDE` - Peach
+* `#FEFEFE` - White
+* `#ABABAB` - Grey
 
 ## Fonts
-* [Text](URL)
+* [Poppins - For text/content](https://fonts.google.com/specimen/Poppins?preview.text=fashion&preview.size=20)
+* [Ubuntu - For title and headers](https://fonts.google.com/specimen/Ubuntu?preview.text=Fashion)
 
 ## Timeline
 
 #### MVP
 
-* Task/Timeline
+* Add components first
+* Navbar
+* Navs & tabs
+* Carousel
+* List group
+* Add images
+* Start adding colors
+* Add Aframe simulator to website
 
 ---
 
