@@ -20,7 +20,7 @@ https://wireframe.cc/g1rrTI
 * `#EA9FA3` - Dull pink
 * `#FFDCDE` - Peach
 * `#FEFEFE` - White
-* `#ABABAB` - Grey
+* `#734646` - Ebony rose
 
 ## Fonts
 * [Poppins - For text/content](https://fonts.google.com/specimen/Poppins?preview.text=fashion&preview.size=20)
