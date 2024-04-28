@@ -7,7 +7,7 @@ https://wireframe.cc/2C2VlB
 
 <img width="246" alt="image" src="https://github.com/dayanisc7709/sep10-freedom-project/assets/146861844/7699523b-1365-4f13-a102-ef7438c9e261">
 
-* 
+*
 * [Desktop]()
 
 https://wireframe.cc/g1rrTI
@@ -34,13 +34,13 @@ https://wireframe.cc/g1rrTI
 * Navbar
 * Navs & tabs
 * Carousel
-* List group
-* Add images
-* Start adding colors
-* Add Aframe simulator to website
+* Fonts
 
 ---
 
 #### Beyond MVP
 
-* Task
+* Color palletes
+* Fixing timeline
+* Adding Aframe sim
+* Adding images
