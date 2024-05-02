@@ -1,7 +1,7 @@
 # Entry 6
-##### X/X/XX
+##### 5/2/24
 
-Text
+### How I made my MVP
 
 [Previous](entry05.md) | [Next](entry07.md)
 
