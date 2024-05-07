@@ -39,8 +39,9 @@ https://wireframe.cc/g1rrTI
 ---
 
 #### Beyond MVP
-
-* Color palletes
+##### Ranked by importance
+* Making my website responsive
+* Media queries
+* Adding Aframe sim by embed
 * Fixing timeline
-* Adding Aframe sim
-* Adding images
+* Add color pallete
