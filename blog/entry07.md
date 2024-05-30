@@ -2,13 +2,16 @@
 ##### 5/29/24
 
 ## Takeaways from giving EXPO elevator pitch
-
+A takeaway that I got from giving my elevator pitch was time management. I messed a little when giving my speech, so I think I needed to spend more time on practicing what I had planned to say, so that I'd be able to remember it better than how I did. But then, it got repetitive anyway, so I learned to improvise too when giving the pitches because it was the same thing over and over. So changing it up and improvising on the spot is kinda necessary, especially because other people arrive and they wouldn't want to hear the exact same thing. So it was fine to not completely remember the speech, since it was gonna be changed anyway. But it was important to remember the most important parts of the pitch speech.
 
 ## Takeaways from giving in-class presentation
 
 ## Sources
-[Notes w/ elevator pitch] (https://docs.google.com/document/d/1gEG-nqpgmLTK_mc0mQxg4ROS4fw1KH32b49NJPkFx8Y/edit?pli=1#heading=h.6o1f62qg6jz9)
+[Notes w/ elevator pitch](https://docs.google.com/document/d/1gEG-nqpgmLTK_mc0mQxg4ROS4fw1KH32b49NJPkFx8Y/edit?pli=1#heading=h.6o1f62qg6jz9)
 
+[Slides for in-class presentation](https://docs.google.com/presentation/d/1XnD_tvlwgvMbjPv7BU_mPbY7NdWncD2vjS0nMR_GjVI/edit#slide=id.p)
+
+<hr>
 
 [Previous](entry06.md) | [Next](entry08.md)
 
