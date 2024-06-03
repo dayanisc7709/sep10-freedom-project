@@ -10,16 +10,23 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **F
 
 ## Links
 
-[Product]()
+[Product](https://dayanisc7709.github.io/sep10-freedom-project/)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1XnD_tvlwgvMbjPv7BU_mPbY7NdWncD2vjS0nMR_GjVI/edit)
 
 ## Implications
 ##### PROS
-* 
-##### CONS
-* 
+* Discusses about Fashion's past and future
+* Invention that could help with Fashion needs
+* Gives AI a good purpose
+* Talks about hardware and softwares involved
 
+##### CONS
+
+* AI bot can probably be not achievable
+* Doesn't mention many fashion styles
+* Website is not very detailed
+* Doesn't go over every single hardware and software in Fashion
 
 ## Blog
 Below you will find my blog about how I made my project.
